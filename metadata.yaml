@@ -5,6 +5,9 @@ contributor:
     agent_name: Shoosmith, C.
     gutenberg_agent_id: '56797'
     url: http://www.gutenberg.org/2009/agents/56797
+covers:
+- cover_type: archival
+  image_path: 72778-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, James
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '56806'
     url: http://www.gutenberg.org/2009/agents/56806
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72778#A-history-of-the-Brazil-b-comprising-its-geography-commerce-colonization-aboriginal-inhabitan_
 gutenberg_issued: '2024-01-24'
 gutenberg_type: Text
 identifiers:
